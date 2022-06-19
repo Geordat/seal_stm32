@@ -1,0 +1,4 @@
+st25ftm_common.c:22:6:logHexBuf	16	static
+st25ftm_common.c:40:30:ST25FTM_GetAcknowledgeStatus	272	static
+st25ftm_common.c:69:6:ST25FTM_State_Init	8	static
+st25ftm_common.c:83:10:ST25FTM_CompareTime	24	static

@@ -1,0 +1,8 @@
+defines.h:348:30:se_conj	48	static
+fft.h:48:22:bitrev	24	static
+fft.c:27:8:calc_angle	24	static
+fft.c:39:16:calc_root_otf	40	static
+fft.c:47:6:calc_fft_roots	40	static
+fft.c:56:6:calc_ifft_roots	56	static
+fft.c:69:6:ifft_inpl	176	static
+fft.c:146:6:fft_inpl	168	static

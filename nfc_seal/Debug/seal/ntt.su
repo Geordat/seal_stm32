@@ -1,0 +1,15 @@
+uint_arith.h:22:23:add_uint32	24	static
+uint_arith.h:49:20:mul_uint32_wide	40	static
+uint_arith.h:67:24:mul_uint32_high	24	static
+uintops.h:22:20:add_uint_nocarry	24	static
+uintops.h:47:20:mul_uint_wide	24	static
+modulo.h:21:18:shift_result	24	static
+modulo.h:84:24:barrett_reduce_64input_32modulus	72	static
+modulo.h:126:18:barrett_reduce_wide	16	static
+uintmodarith.h:26:18:add_mod	32	static
+uintmodarith.h:64:18:neg_mod	24	static
+uintmodarith.h:95:18:sub_mod	32	static
+uintmodarith.h:123:18:mul_mod	32	static
+ntt.c:24:6:ntt_roots_initialize	16	static
+ntt.c:124:6:ntt_non_lazy_inpl	80	static
+ntt.c:168:6:ntt_inpl	24	static

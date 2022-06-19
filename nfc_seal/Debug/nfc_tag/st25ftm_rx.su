@@ -1,0 +1,10 @@
+st25ftm_rx.c:20:13:ST25FTM_SetData	24	static
+st25ftm_rx.c:33:6:ST25FTM_RxStateInit	4	static
+st25ftm_rx.c:57:25:ST25FTM_Unpack	56	static
+st25ftm_rx.c:97:13:ST25FTM_RewindSegment	4	static
+st25ftm_rx.c:109:35:ST25FTM_StateRxIdle	8	static
+st25ftm_rx.c:128:35:ST25FTM_StateRxCommand	16	static
+st25ftm_rx.c:154:35:ST25FTM_StateRxPacket	312	static
+st25ftm_rx.c:345:35:ST25FTM_StateRxWriteAck	280	static
+st25ftm_rx.c:393:35:ST25FTM_StateRxWaitAckRead	16	static
+st25ftm_rx.c:454:6:ST25FTM_Receive	16	static

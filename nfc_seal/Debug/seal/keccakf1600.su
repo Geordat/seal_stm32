@@ -1,0 +1,3 @@
+keccakf1600.c:35:6:KeccakF1600_StateExtractBytes	40	static
+keccakf1600.c:43:6:KeccakF1600_StateXORBytes	56	static
+keccakf1600.c:51:6:KeccakF1600_StatePermute	2984	static

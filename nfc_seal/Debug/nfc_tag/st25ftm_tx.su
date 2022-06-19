@@ -1,0 +1,11 @@
+st25ftm_tx.c:21:13:ST25FTM_GetData	24	static
+st25ftm_tx.c:33:18:ST25FTM_Pack	32	static
+st25ftm_tx.c:90:6:ST25FTM_TxStateInit	8	static
+st25ftm_tx.c:117:35:ST25FTM_StateTxIdle	8	static
+st25ftm_tx.c:135:35:ST25FTM_StateTxCommand	16	static
+st25ftm_tx.c:167:35:ST25FTM_StateTxSegment	32	static
+st25ftm_tx.c:273:35:ST25FTM_StateTxPacket	16	static
+st25ftm_tx.c:297:35:ST25FTM_StateTxWaitRead	16	static
+st25ftm_tx.c:337:35:ST25FTM_StateTxReadAck	16	static
+st25ftm_tx.c:373:6:ST25FTM_Transmit	16	static
+st25ftm_tx.c:406:6:ST25FTM_TxResetSegment	4	static

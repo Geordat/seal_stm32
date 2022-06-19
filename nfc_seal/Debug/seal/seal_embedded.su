@@ -1,0 +1,6 @@
+seal_embedded.c:24:11:se_setup_custom	64	static
+seal_embedded.c:85:11:se_setup	40	static
+seal_embedded.c:90:11:se_setup_default	24	static
+seal_embedded.c:99:6:se_encrypt_seeded	112	static
+seal_embedded.c:222:6:se_encrypt	40	static
+seal_embedded.c:228:6:se_cleanup	16	static

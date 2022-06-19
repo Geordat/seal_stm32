@@ -1,0 +1,9 @@
+parameters.c:21:13:is_power_of_2	16	static
+parameters.c:26:6:delete_parameters	16	static
+parameters.c:41:6:reset_primes	16	static
+parameters.c:52:6:next_modulus	24	static
+parameters.c:98:13:set_params_base	24	static
+parameters.c:129:6:set_parms_ckks_27bit_helper	16	static
+parameters.c:149:6:set_parms_ckks_30bit_helper	16	static
+parameters.c:176:6:set_parms_ckks	24	static
+parameters.c:232:6:set_custom_parms_ckks	48	static

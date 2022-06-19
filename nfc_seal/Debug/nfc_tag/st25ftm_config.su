@@ -1,0 +1,10 @@
+st25ftm_config.c:95:6:ST25FTM_DeviceInit	24	static
+st25ftm_config.c:128:25:ST25FTM_WriteMessage	32	static
+st25ftm_config.c:165:25:ST25FTM_ReadMessage	24	static
+st25ftm_config.c:199:24:ST25FTM_GetMessageOwner	8	static
+st25ftm_config.c:206:6:ST25FTM_UpdateFieldStatus	16	static
+st25ftm_config.c:254:6:MX_GPIO_Init	48	static
+st25ftm_config.c:273:16:InitITGPOMode	40	static
+st25ftm_config.c:316:13:ManageGPO	24	static
+st25ftm_config.c:350:6:ST25FTM_CRC_Initialize	16	static
+st25ftm_config.c:367:15:ST25FTM_GetCrc	296	static

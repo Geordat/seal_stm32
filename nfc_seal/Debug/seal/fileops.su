@@ -1,0 +1,6 @@
+fileops.c:140:6:load_sk	24	static
+fileops.c:172:6:load_pki	32	static
+fileops.c:208:6:load_index_map	24	static
+fileops.c:226:6:load_ifft_roots	16	static
+fileops.c:291:6:load_ntt_roots	24	static
+fileops.c:315:6:load_intt_roots	24	static
